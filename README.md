@@ -1,6 +1,4 @@
-# Making-a-wide-dataset-long-by-using-pivot_longer
-# Making a wide dataset long by using poivot longer 
-
+# Making-a-wide-dataset-long-by-using-pivot_longer 
 ### loading the reading the datase 
 library(tidyverse)
 philant <- read_csv("http://594442.youcanlearnit.net/pew.csv")

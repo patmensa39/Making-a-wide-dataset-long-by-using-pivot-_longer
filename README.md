@@ -1,4 +1,4 @@
-# Making-a-wide-dataset-long-by-using-pivot-_longer
+# Making-a-wide-dataset-long-by-using-pivot_longer
 # Making a wide dataset long by using poivot longer 
 
 ### loading the reading the datase 
